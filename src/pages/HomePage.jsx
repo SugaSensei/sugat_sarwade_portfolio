@@ -1,8 +1,10 @@
 import React from 'react'
-
+import DeveloperToolkit from './DeveloperToolkit'
 function HomePage() {
   return (
-    <div>HomePage</div>
+    <div>
+        <DeveloperToolkit/>
+    </div>
   )
 }
 
